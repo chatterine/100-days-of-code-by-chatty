@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 0: Aug 11, 2026
+## Day 1: Aug 11, 2026
 
 **Today's Progress**: I did 61 steps of the responsive web design certification, which let me successfully build the cat photo app and the recipe page.
 

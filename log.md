@@ -6,6 +6,9 @@
 
 **Thoughts**: It's too early to have anything to say about it
 
+<img width="748" height="612" alt="2026-08-12-052227_748x612_scrot" src="https://github.com/user-attachments/assets/1236c4ea-4345-417a-a28c-d5afdf1df9a6" />
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

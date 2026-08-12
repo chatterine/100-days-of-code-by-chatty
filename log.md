@@ -1,12 +1,26 @@
 # 100 Days Of Code - Log
 
+Start date: Aug 11, 2026
+
 ## Day 1: Aug 11, 2026
+
+**Clocked time**: 1h03
 
 **Today's Progress**: I did 61 steps of the responsive web design certification, which let me successfully build the cat photo app and the recipe page.
 
 **Thoughts**: It's too early to have anything to say about it
 
 <img width="748" height="612" alt="2026-08-12-052227_748x612_scrot" src="https://github.com/user-attachments/assets/1236c4ea-4345-417a-a28c-d5afdf1df9a6" />
+
+## Day 2: Aug 12, 2026
+
+**Clocked time: 1h12
+
+**Today's Progress**: Right now I built the Bookstore page and the Travel Agency page and reached 110 steps.
+
+**Thoughts:** Studying programming is not for the feeble-minded
+
+<img width="1366" height="768" alt="2026-08-12-172658_1366x768_scrot" src="https://github.com/user-attachments/assets/e45ae0f1-adb0-4ae5-bec8-bae912feacdd" />
 
 
 <!--

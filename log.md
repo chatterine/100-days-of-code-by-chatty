@@ -14,14 +14,15 @@ Start date: Aug 11, 2026
 
 ## Day 2: Aug 12, 2026
 
-**Clocked time: 1h12
+**Clocked time: 1h43
 
-**Today's Progress**: Right now I built the Bookstore page and the Travel Agency page and reached 110 steps.
+**Today's Progress**: Right now I built the Bookstore page and the Travel Agency page and reached 110 steps. I also spend an additional 40 minutes coding a hello world program in x86 assembly.
 
 **Thoughts:** Studying programming is not for the feeble-minded
 
 <img width="1366" height="768" alt="2026-08-12-172658_1366x768_scrot" src="https://github.com/user-attachments/assets/e45ae0f1-adb0-4ae5-bec8-bae912feacdd" />
 
+**Links to work**: https://github.com/chatterine/assembly-test
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
